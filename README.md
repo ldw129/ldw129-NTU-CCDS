@@ -10,9 +10,11 @@
   <p><p>
 </div>
 <div align="justify">
-  Hello! I am Lim Dong Wan, a curious and meticulous Final Year NTU B(Comp) Computer Science Undergraduate student with a flair for Mathematics and a growing interest in the field of Computer Networking and Cybersecurity. I officially started my learning journey in Computing in 2020 when I was first exposed to Python programming language. Thereafter, I progressively expanded my knowledge into other languages (ie. Java, C and C++), as well as other fields like Computer Networking, Cybersecurity, Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand various computing concepts, such as computer logic and networking. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field.
-  <p><p>
-  I hope that with the knowledge I have gained and acquired, I can better analyze and understand cyber threats, as well as innovate solutions and/or tools that can be used in my job and my daily life, so as to better safeguard myself and others from the threats we are facing in the digital world we live in today.
+      Hello! I am Lim Dong Wan, a curious and meticulous Final Year NTU B(Comp) Computer Science Undergraduate student with a flair for Mathematics and a strong interest in Computer Networking and Cybersecurity.  
+      <p><p>
+      I officially started my Cyber journey in July 2020 when I was first exposed to the native Python language. Thereafter, I progressively learned and used other languages (ie. Java, C, C++, Assembly) in various fields like Computer Networking, Cybersecurity, Computer Architecture, Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand computing concepts and appreciate the connections between them. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field, especially with the evolving cyber threat landscape worldwide.
+      <p><p>
+      I hope that with the knowledge I have gained and acquired, I can leverage on new and existing solutions, tools and/or frameworks to better analyze and understand a plethora of cyber threats, so as to safeguard everyone more effectively from these threats that we are facing today.
   <p><p>
   Feel free to connect with me through the following channels! :)
   <p><p>
