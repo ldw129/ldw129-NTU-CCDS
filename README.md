@@ -99,7 +99,6 @@ Professional Certifications:
   <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=CSS" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Bash-555?style=for-the-badge&logo=Bourne-Again%20Shell" />
   <img src="https://img.shields.io/badge/Assembly%20(ARM)-black?style=for-the-badge&logo=ARM" />
   <br>
 
@@ -115,11 +114,8 @@ Professional Certifications:
   <img src="https://img.shields.io/badge/VSCode-555?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue" />
   <img src="https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=Eclipse" />
   <img src="https://img.shields.io/badge/CodeBlocks-555?style=for-the-badge&logo=CodeBlocks" />
-  <img src="https://img.shields.io/badge/Notepad%2B%2B-blue?style=for-the-badge&logo=Notepad%2B%2B" />
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-8096Af?style=for-the-badge&logo=npm" />
-  <img src="https://img.shields.io/badge/Pip-555?style=for-the-badge&logo=Pip" />
-  <img src="https://img.shields.io/badge/apt-555?style=for-the-badge&logo=APT" />
   <br>
 
   - Operating Systems:
