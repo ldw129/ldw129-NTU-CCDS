@@ -10,7 +10,7 @@
   <p><p>
 </div>
 <div align="justify">
-      Hello! I am Lim Dong Wan, a curious and meticulous Final Year NTU B(Comp) Computer Science Undergraduate student with a flair for Mathematics and a strong interest in Computer Networking and Cybersecurity.  
+      Hello! I am Lim Dong Wan, a curious and meticulous NTU B(Comp) Computer Science Graduate with a flair for Mathematics and a strong interest in Computer Networking and Cybersecurity.  
       <p><p>
       I officially started my Cyber journey in July 2020 when I was first exposed to the native Python language. Thereafter, I progressively learned and used other languages (ie. Java, C, C++, Assembly) in various fields like Computer Networking, Cybersecurity, Computer Architecture, Data Science and Artificial Intelligence. My strengths in Mathematics have also allowed me to better understand computing concepts and appreciate the connections between them. However, I do believe that there is still much more for me to learn and apply in this growing and ever-changing field, especially with the evolving cyber threat landscape worldwide.
       <p><p>
